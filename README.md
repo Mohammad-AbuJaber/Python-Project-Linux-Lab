@@ -1,6 +1,6 @@
 # Python-Project-Linux-Lab
 
-In this Python project, we will be building management software using object-oriented programming (OOP) for a large company that owns multiple supermarkets. The software will be responsible for managing the products in the warehouse and the distribution of these products to the supermarkets.
+In this Python project, we built management software using object-oriented programming (OOP) for a large company that owns multiple supermarkets. The software will be responsible for managing the products in the warehouse and the distribution of these products to the supermarkets.
 
 The software will provide the following functionalities:
  
