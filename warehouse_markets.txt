@@ -1,0 +1,6 @@
+shini;shini_1;Birzeit;2022-08-29 15:25:01
+bravo;bravo_1;Al-tira;2022-08-29 15:25:01
+mashhadawi;mashhadawi_1;la casa mall;2022-08-29 15:25:01
+nour al-huda;nour al-huda_1;betunia;2022-08-29 15:25:01
+gardens;gardens_1;Al-tira;2022-08-29 15:25:01
+Top Shop;Top Shop_1;Ein Musbah;2022-08-29 15:25:01
